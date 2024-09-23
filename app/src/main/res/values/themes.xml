@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Android_FIntech_Security_library"
+        parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
