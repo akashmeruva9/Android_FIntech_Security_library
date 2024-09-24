@@ -1,6 +1,6 @@
 # AndroidArmour
 
-We have include the following 2 Fintech Android app security features in this respository :
+## We have include the following 2 Fintech Android app security features in this respository :
 - [Passcode & Biometric Authentication](#section-1)  - 
 - [Transaction Encryption](#section-2)
 
